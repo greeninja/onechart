@@ -74,5 +74,5 @@ spec:
 {{- end }}
 
 {{- range .Values.ingresses }}
-{{template "onechart.ingress" (dict "root" $ "ingress" .) }}
+{{template "onechart.ingress" (dict "root" $ "ingress" . "longName" true) }}
 {{- end }}
