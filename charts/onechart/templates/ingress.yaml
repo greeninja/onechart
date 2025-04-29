@@ -64,7 +64,7 @@ spec:
               service:
                 name: {{ $robustName }}
                 port:
-                  number: {{ else if $svcPort }}{{ $svcPort }}{{ else }}{{ $containerPort }}{{ end }}
+                  number: {{ if $svcPort }}{{ $svcPort }}{{ else }}{{ $containerPort }}{{ end }}
           {{- end }}
         {{- end }}
 {{- end }}
