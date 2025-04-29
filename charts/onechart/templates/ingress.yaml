@@ -54,7 +54,7 @@ spec:
               service:
                 name: {{ $robustName }}
                 port:
-                  number: {{ if .ingress.port }}{{ .ingress.port }}{{ if $svcPort }}{{ $svcPort }}{{ else }}{{ $containerPort }}{{ end }}
+                  number: {{ if .ingress.port }}{{ .ingress.port }}{{ else if $svcPort }}{{ $svcPort }}{{ else }}{{ $containerPort }}{{ end }}
         {{- else }}
         paths:
           {{- range .ingress.paths }}
