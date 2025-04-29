@@ -1,4 +1,5 @@
 .idea/
+.swp*
 manifests
 website/site
 website/awesome_venv
