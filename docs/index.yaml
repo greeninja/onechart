@@ -2,21 +2,21 @@ apiVersion: v1
 entries:
   cron-job:
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.960228+01:00"
+    created: "2025-04-29T13:40:42.478108+01:00"
     dependencies:
     - name: common
       repository: file://../common
       version: 0.7.0
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
-    digest: 4bf99b8e8df01031bc427fb25d509594de1cc40631b1234ed41292d0cc409bdf
+    digest: 4c371cfe0212191b7ef6d44af20a261a7d06475d22d5fec21dab357349543600
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.74.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.74.0.tgz
     version: 0.74.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.959886+01:00"
+    created: "2025-04-29T13:40:42.477816+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -27,10 +27,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.73.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.73.0.tgz
     version: 0.73.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.959414+01:00"
+    created: "2025-04-29T13:40:42.477427+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -41,10 +41,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.72.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.72.0.tgz
     version: 0.72.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.959014+01:00"
+    created: "2025-04-29T13:40:42.477114+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -55,10 +55,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.71.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.71.0.tgz
     version: 0.71.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.95863+01:00"
+    created: "2025-04-29T13:40:42.476788+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -69,10 +69,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.70.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.70.0.tgz
     version: 0.70.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.958131+01:00"
+    created: "2025-04-29T13:40:42.476352+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -83,10 +83,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.69.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.69.0.tgz
     version: 0.69.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.957377+01:00"
+    created: "2025-04-29T13:40:42.476014+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -97,10 +97,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.68.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.68.0.tgz
     version: 0.68.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.957021+01:00"
+    created: "2025-04-29T13:40:42.475633+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -111,10 +111,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.67.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.67.0.tgz
     version: 0.67.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.956663+01:00"
+    created: "2025-04-29T13:40:42.475137+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -125,10 +125,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.66.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.66.0.tgz
     version: 0.66.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.956305+01:00"
+    created: "2025-04-29T13:40:42.474622+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -139,10 +139,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.65.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.65.0.tgz
     version: 0.65.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.955959+01:00"
+    created: "2025-04-29T13:40:42.474306+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -153,10 +153,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.65.0-rc.1.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.65.0-rc.1.tgz
     version: 0.65.0-rc.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.955597+01:00"
+    created: "2025-04-29T13:40:42.473908+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -167,10 +167,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.64.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.64.0.tgz
     version: 0.64.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.955069+01:00"
+    created: "2025-04-29T13:40:42.473476+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -181,10 +181,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.64.0-rc.3.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.64.0-rc.3.tgz
     version: 0.64.0-rc.3
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.954625+01:00"
+    created: "2025-04-29T13:40:42.47311+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -195,10 +195,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.64.0-rc.2.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.64.0-rc.2.tgz
     version: 0.64.0-rc.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.954201+01:00"
+    created: "2025-04-29T13:40:42.472805+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -209,10 +209,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.63.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.63.0.tgz
     version: 0.63.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.953803+01:00"
+    created: "2025-04-29T13:40:42.472459+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -223,10 +223,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.63.0-rc.3.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.63.0-rc.3.tgz
     version: 0.63.0-rc.3
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.953444+01:00"
+    created: "2025-04-29T13:40:42.472146+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -237,10 +237,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.63.0-rc.2.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.63.0-rc.2.tgz
     version: 0.63.0-rc.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.95295+01:00"
+    created: "2025-04-29T13:40:42.471691+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -251,10 +251,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.63.0-rc.1.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.63.0-rc.1.tgz
     version: 0.63.0-rc.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.952603+01:00"
+    created: "2025-04-29T13:40:42.471353+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -265,10 +265,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.62.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.62.0.tgz
     version: 0.62.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.952007+01:00"
+    created: "2025-04-29T13:40:42.470998+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -279,10 +279,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.62.0-rc.3.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.62.0-rc.3.tgz
     version: 0.62.0-rc.3
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.951541+01:00"
+    created: "2025-04-29T13:40:42.470675+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -293,10 +293,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.61.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.61.0.tgz
     version: 0.61.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.951188+01:00"
+    created: "2025-04-29T13:40:42.470366+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -307,10 +307,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.60.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.60.0.tgz
     version: 0.60.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.950807+01:00"
+    created: "2025-04-29T13:40:42.469819+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -321,10 +321,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.59.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.59.0.tgz
     version: 0.59.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.950464+01:00"
+    created: "2025-04-29T13:40:42.469406+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -335,10 +335,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.58.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.58.0.tgz
     version: 0.58.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.950109+01:00"
+    created: "2025-04-29T13:40:42.469124+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -349,10 +349,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.57.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.57.0.tgz
     version: 0.57.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.949775+01:00"
+    created: "2025-04-29T13:40:42.468834+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -363,10 +363,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.56.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.56.0.tgz
     version: 0.56.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.94944+01:00"
+    created: "2025-04-29T13:40:42.468545+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -377,10 +377,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.55.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.55.0.tgz
     version: 0.55.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.949097+01:00"
+    created: "2025-04-29T13:40:42.468252+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -391,10 +391,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.54.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.54.0.tgz
     version: 0.54.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.948613+01:00"
+    created: "2025-04-29T13:40:42.467966+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -405,10 +405,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.53.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.53.0.tgz
     version: 0.53.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.94814+01:00"
+    created: "2025-04-29T13:40:42.467018+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -419,10 +419,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.52.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.52.0.tgz
     version: 0.52.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.94683+01:00"
+    created: "2025-04-29T13:40:42.465178+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -433,10 +433,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.51.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.51.0.tgz
     version: 0.51.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.946475+01:00"
+    created: "2025-04-29T13:40:42.464859+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -447,10 +447,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.50.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.50.0.tgz
     version: 0.50.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.946103+01:00"
+    created: "2025-04-29T13:40:42.464525+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -461,10 +461,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.49.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.49.0.tgz
     version: 0.49.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.945407+01:00"
+    created: "2025-04-29T13:40:42.464213+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -475,10 +475,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.48.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.48.0.tgz
     version: 0.48.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.945041+01:00"
+    created: "2025-04-29T13:40:42.463904+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -489,10 +489,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.47.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.47.0.tgz
     version: 0.47.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.944667+01:00"
+    created: "2025-04-29T13:40:42.463419+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -503,10 +503,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.46.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.46.0.tgz
     version: 0.46.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.944295+01:00"
+    created: "2025-04-29T13:40:42.462894+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -517,10 +517,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.45.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.45.0.tgz
     version: 0.45.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.943941+01:00"
+    created: "2025-04-29T13:40:42.462514+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -531,10 +531,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.44.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.44.0.tgz
     version: 0.44.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.943564+01:00"
+    created: "2025-04-29T13:40:42.462153+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -545,10 +545,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.43.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.43.0.tgz
     version: 0.43.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.943158+01:00"
+    created: "2025-04-29T13:40:42.461791+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -559,10 +559,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.42.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.42.0.tgz
     version: 0.42.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.942749+01:00"
+    created: "2025-04-29T13:40:42.46143+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -573,10 +573,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.41.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.41.0.tgz
     version: 0.41.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.942375+01:00"
+    created: "2025-04-29T13:40:42.461076+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -587,10 +587,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.40.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.40.0.tgz
     version: 0.40.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.942015+01:00"
+    created: "2025-04-29T13:40:42.460719+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -601,10 +601,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.39.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.39.0.tgz
     version: 0.39.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.941529+01:00"
+    created: "2025-04-29T13:40:42.460237+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -615,10 +615,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.38.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.38.0.tgz
     version: 0.38.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.941127+01:00"
+    created: "2025-04-29T13:40:42.459886+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -629,10 +629,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.37.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.37.0.tgz
     version: 0.37.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.940766+01:00"
+    created: "2025-04-29T13:40:42.459518+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -643,10 +643,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.36.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.36.0.tgz
     version: 0.36.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.939783+01:00"
+    created: "2025-04-29T13:40:42.459199+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -657,10 +657,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.35.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.35.0.tgz
     version: 0.35.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.93939+01:00"
+    created: "2025-04-29T13:40:42.458885+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -671,10 +671,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.34.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.34.0.tgz
     version: 0.34.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.939018+01:00"
+    created: "2025-04-29T13:40:42.458202+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -685,10 +685,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.33.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.33.0.tgz
     version: 0.33.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.938599+01:00"
+    created: "2025-04-29T13:40:42.45788+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -699,10 +699,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.32.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.32.0.tgz
     version: 0.32.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.938052+01:00"
+    created: "2025-04-29T13:40:42.45737+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -713,10 +713,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.2.2.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.937447+01:00"
+    created: "2025-04-29T13:40:42.45693+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -727,10 +727,10 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.2.1.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.936894+01:00"
+    created: "2025-04-29T13:40:42.456507+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -741,92 +741,92 @@ entries:
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.2.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.936429+01:00"
+    created: "2025-04-29T13:40:42.456181+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 02a23d8b4177290a518ee5de6a5e1f557f7409f94b2e04f23fedea193464188f
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.1.2.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.935612+01:00"
+    created: "2025-04-29T13:40:42.455376+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: afab9ba533a4686827b54b0dad64f5bbf76f7fbc075e35fb1034689db9ab9dda
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.1.1.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.935155+01:00"
+    created: "2025-04-29T13:40:42.454937+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 01f9fa40c1c4085d7688474ab00c9e9d21bd1d0793db6b75f2edda0e18456282
     name: cron-job
     type: application
     urls:
-    - https://chart.onechart.dev/cron-job-0.1.0.tgz
+    - https://greeninja.github.io/onechart/cron-job-0.1.0.tgz
     version: 0.1.0
   namespaces:
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.961815+01:00"
+    created: "2025-04-29T13:40:42.479579+01:00"
     description: Chart to create namespaces and their defaults
     digest: 6253b1657537baa94e4a134c88131bf16b93059176d48e7ccec8e6a351740386
     name: namespaces
     type: application
     urls:
-    - https://chart.onechart.dev/namespaces-0.3.0.tgz
+    - https://greeninja.github.io/onechart/namespaces-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.961676+01:00"
+    created: "2025-04-29T13:40:42.479454+01:00"
     description: Chart to create namespaces and their defaults
     digest: a8e28dab9dc1a0044e75fbf8dd6d89c760c6fe9caa76bf16076cf5ecb311e808
     name: namespaces
     type: application
     urls:
-    - https://chart.onechart.dev/namespaces-0.2.1.tgz
+    - https://greeninja.github.io/onechart/namespaces-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.960834+01:00"
+    created: "2025-04-29T13:40:42.478634+01:00"
     description: Chart to create namespaces and their defaults
     digest: 9539bfd2fde6d8f2b36ffec99c8a3a3eb7887462e98ee740b0ae0ea2b16b96b6
     name: namespaces
     type: application
     urls:
-    - https://chart.onechart.dev/namespaces-0.2.0.tgz
+    - https://greeninja.github.io/onechart/namespaces-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.960494+01:00"
+    created: "2025-04-29T13:40:42.478346+01:00"
     description: Chart to create namespaces and their defaults
     digest: 88b06d78a9d1bda6f2ee15b1fad7f25399ac25c2320fb9a8dfa1a4fd14afdf6e
     name: namespaces
     type: application
     urls:
-    - https://chart.onechart.dev/namespaces-0.1.0.tgz
+    - https://greeninja.github.io/onechart/namespaces-0.1.0.tgz
     version: 0.1.0
   onechart:
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.007015+01:00"
+    created: "2025-04-29T13:40:42.525336+01:00"
     dependencies:
     - name: common
       repository: file://../common
       version: 0.7.0
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
-    digest: fab57bd310370668d7e9af85d41aacc1d07a9bc8293d9a11d7adf150e58cf9de
+    digest: 670e0135e04ce0e240308546b3d46fe29c13fe9aac4adfc03ebc5455682e2405
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.74.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.74.0.tgz
     version: 0.74.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.006573+01:00"
+    created: "2025-04-29T13:40:42.524859+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -837,10 +837,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.73.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.73.0.tgz
     version: 0.73.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.006049+01:00"
+    created: "2025-04-29T13:40:42.524358+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -851,10 +851,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.72.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.72.0.tgz
     version: 0.72.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.005351+01:00"
+    created: "2025-04-29T13:40:42.523404+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -865,10 +865,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.71.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.71.0.tgz
     version: 0.71.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.004258+01:00"
+    created: "2025-04-29T13:40:42.522814+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -879,10 +879,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.70.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.70.0.tgz
     version: 0.70.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.002979+01:00"
+    created: "2025-04-29T13:40:42.521525+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -893,10 +893,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.69.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.69.0.tgz
     version: 0.69.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.002387+01:00"
+    created: "2025-04-29T13:40:42.520924+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -907,10 +907,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.68.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.68.0.tgz
     version: 0.68.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.001917+01:00"
+    created: "2025-04-29T13:40:42.520441+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -921,10 +921,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.67.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.67.0.tgz
     version: 0.67.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.001259+01:00"
+    created: "2025-04-29T13:40:42.51981+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -935,10 +935,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.66.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.66.0.tgz
     version: 0.66.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.000692+01:00"
+    created: "2025-04-29T13:40:42.519292+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -949,10 +949,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.65.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.65.0.tgz
     version: 0.65.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.000025+01:00"
+    created: "2025-04-29T13:40:42.518673+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -963,10 +963,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.65.0-rc.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.65.0-rc.1.tgz
     version: 0.65.0-rc.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.99923+01:00"
+    created: "2025-04-29T13:40:42.517827+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -977,10 +977,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.64.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.64.0.tgz
     version: 0.64.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.998628+01:00"
+    created: "2025-04-29T13:40:42.517235+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -991,10 +991,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.64.0-rc.3.tgz
+    - https://greeninja.github.io/onechart/onechart-0.64.0-rc.3.tgz
     version: 0.64.0-rc.3
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.998166+01:00"
+    created: "2025-04-29T13:40:42.516747+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1005,10 +1005,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.64.0-rc.2.tgz
+    - https://greeninja.github.io/onechart/onechart-0.64.0-rc.2.tgz
     version: 0.64.0-rc.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.997587+01:00"
+    created: "2025-04-29T13:40:42.516134+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1019,10 +1019,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.63.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.63.0.tgz
     version: 0.63.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.997131+01:00"
+    created: "2025-04-29T13:40:42.515651+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1033,10 +1033,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.63.0-rc.3.tgz
+    - https://greeninja.github.io/onechart/onechart-0.63.0-rc.3.tgz
     version: 0.63.0-rc.3
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.996533+01:00"
+    created: "2025-04-29T13:40:42.515044+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1047,10 +1047,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.63.0-rc.2.tgz
+    - https://greeninja.github.io/onechart/onechart-0.63.0-rc.2.tgz
     version: 0.63.0-rc.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.995947+01:00"
+    created: "2025-04-29T13:40:42.514421+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1061,10 +1061,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.63.0-rc.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.63.0-rc.1.tgz
     version: 0.63.0-rc.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.99541+01:00"
+    created: "2025-04-29T13:40:42.513849+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1075,10 +1075,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.62.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.62.0.tgz
     version: 0.62.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.994406+01:00"
+    created: "2025-04-29T13:40:42.513098+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1089,10 +1089,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.62.0-rc.3.tgz
+    - https://greeninja.github.io/onechart/onechart-0.62.0-rc.3.tgz
     version: 0.62.0-rc.3
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.993825+01:00"
+    created: "2025-04-29T13:40:42.512379+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1103,10 +1103,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.61.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.61.0.tgz
     version: 0.61.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.993293+01:00"
+    created: "2025-04-29T13:40:42.511859+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1117,10 +1117,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.60.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.60.0.tgz
     version: 0.60.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.992448+01:00"
+    created: "2025-04-29T13:40:42.511045+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1131,10 +1131,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.59.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.59.0.tgz
     version: 0.59.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.99196+01:00"
+    created: "2025-04-29T13:40:42.510587+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1145,10 +1145,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.58.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.58.0.tgz
     version: 0.58.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.99133+01:00"
+    created: "2025-04-29T13:40:42.509963+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1159,10 +1159,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.57.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.57.0.tgz
     version: 0.57.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.990679+01:00"
+    created: "2025-04-29T13:40:42.509359+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1173,10 +1173,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.56.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.56.0.tgz
     version: 0.56.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.990222+01:00"
+    created: "2025-04-29T13:40:42.508903+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1187,10 +1187,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.55.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.55.0.tgz
     version: 0.55.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.989423+01:00"
+    created: "2025-04-29T13:40:42.508456+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1201,10 +1201,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.54.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.54.0.tgz
     version: 0.54.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.988963+01:00"
+    created: "2025-04-29T13:40:42.507841+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1215,10 +1215,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.53.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.53.0.tgz
     version: 0.53.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.988495+01:00"
+    created: "2025-04-29T13:40:42.507288+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1229,10 +1229,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.52.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.52.0.tgz
     version: 0.52.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.98803+01:00"
+    created: "2025-04-29T13:40:42.50682+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1243,10 +1243,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.51.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.51.0.tgz
     version: 0.51.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.987543+01:00"
+    created: "2025-04-29T13:40:42.506363+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1257,10 +1257,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.50.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.50.0.tgz
     version: 0.50.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.986755+01:00"
+    created: "2025-04-29T13:40:42.505541+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1271,10 +1271,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.49.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.49.0.tgz
     version: 0.49.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.98617+01:00"
+    created: "2025-04-29T13:40:42.504923+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1285,10 +1285,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.48.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.48.0.tgz
     version: 0.48.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.9856+01:00"
+    created: "2025-04-29T13:40:42.504336+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1299,10 +1299,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.47.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.47.0.tgz
     version: 0.47.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.985134+01:00"
+    created: "2025-04-29T13:40:42.503871+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1313,10 +1313,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.46.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.46.0.tgz
     version: 0.46.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.984146+01:00"
+    created: "2025-04-29T13:40:42.503295+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1327,10 +1327,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.45.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.45.0.tgz
     version: 0.45.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.983686+01:00"
+    created: "2025-04-29T13:40:42.502832+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1341,10 +1341,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.44.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.44.0.tgz
     version: 0.44.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.983235+01:00"
+    created: "2025-04-29T13:40:42.501982+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1355,10 +1355,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.43.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.43.0.tgz
     version: 0.43.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.982768+01:00"
+    created: "2025-04-29T13:40:42.501543+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1369,10 +1369,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.42.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.42.0.tgz
     version: 0.42.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.982368+01:00"
+    created: "2025-04-29T13:40:42.501122+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1383,10 +1383,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.41.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.41.0.tgz
     version: 0.41.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.981971+01:00"
+    created: "2025-04-29T13:40:42.500722+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1397,10 +1397,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.40.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.40.0.tgz
     version: 0.40.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.981403+01:00"
+    created: "2025-04-29T13:40:42.500145+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1411,10 +1411,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.39.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.39.0.tgz
     version: 0.39.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.98099+01:00"
+    created: "2025-04-29T13:40:42.499734+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1425,10 +1425,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.38.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.38.0.tgz
     version: 0.38.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.980588+01:00"
+    created: "2025-04-29T13:40:42.499319+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1439,10 +1439,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.37.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.37.0.tgz
     version: 0.37.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.979809+01:00"
+    created: "2025-04-29T13:40:42.49888+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1453,10 +1453,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.36.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.36.0.tgz
     version: 0.36.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.979388+01:00"
+    created: "2025-04-29T13:40:42.498481+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1467,10 +1467,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.35.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.35.0.tgz
     version: 0.35.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.978885+01:00"
+    created: "2025-04-29T13:40:42.497875+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1481,10 +1481,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.34.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.34.0.tgz
     version: 0.34.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.978349+01:00"
+    created: "2025-04-29T13:40:42.49694+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1495,10 +1495,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.33.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.33.0.tgz
     version: 0.33.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.977856+01:00"
+    created: "2025-04-29T13:40:42.494634+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1509,10 +1509,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.32.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.32.0.tgz
     version: 0.32.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.977484+01:00"
+    created: "2025-04-29T13:40:42.494242+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1523,10 +1523,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.31.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.31.0.tgz
     version: 0.31.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.977064+01:00"
+    created: "2025-04-29T13:40:42.493847+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1537,10 +1537,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.30.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.30.0.tgz
     version: 0.30.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.975281+01:00"
+    created: "2025-04-29T13:40:42.492186+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1551,10 +1551,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.29.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.29.0.tgz
     version: 0.29.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.974741+01:00"
+    created: "2025-04-29T13:40:42.491728+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1565,10 +1565,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.28.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.28.0.tgz
     version: 0.28.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.974088+01:00"
+    created: "2025-04-29T13:40:42.491285+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1579,10 +1579,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.27.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.27.0.tgz
     version: 0.27.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.973571+01:00"
+    created: "2025-04-29T13:40:42.490787+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1593,10 +1593,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.27.0-rc3.tgz
+    - https://greeninja.github.io/onechart/onechart-0.27.0-rc3.tgz
     version: 0.27.0-rc3
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.973064+01:00"
+    created: "2025-04-29T13:40:42.49028+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1607,10 +1607,10 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.27.0-rc2.tgz
+    - https://greeninja.github.io/onechart/onechart-0.27.0-rc2.tgz
     version: 0.27.0-rc2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.97256+01:00"
+    created: "2025-04-29T13:40:42.489412+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -1621,447 +1621,447 @@ entries:
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.27.0-rc1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.27.0-rc1.tgz
     version: 0.27.0-rc1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.971352+01:00"
+    created: "2025-04-29T13:40:42.488303+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 3563a30dba0b6a9c7a1a3df358ca5c41e952882fd2f1bbe33c8103536870d651
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.26.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.26.0.tgz
     version: 0.26.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.970982+01:00"
+    created: "2025-04-29T13:40:42.488016+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: efcbabde8193f1c3ecb34e4ede8f5efead1f77d8096180f4e8640ff94df07461
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.25.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.25.0.tgz
     version: 0.25.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.97064+01:00"
+    created: "2025-04-29T13:40:42.487721+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 59f1389268efb3d970f84cae968e3ecbde57015df1201411f9f46becb4b09844
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.24.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.24.1.tgz
     version: 0.24.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.970331+01:00"
+    created: "2025-04-29T13:40:42.487424+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 74b6fdf49a9fa5327fc0639f1d97f0cf553f89030c01379f3c91a5adb6f8a0f1
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.24.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.24.0.tgz
     version: 0.24.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.970024+01:00"
+    created: "2025-04-29T13:40:42.487104+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: f8e444c2d5c5a4e73b76a971effda5246d3200427be45c2fb546bc990f197ecc
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.23.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.23.0.tgz
     version: 0.23.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.969671+01:00"
+    created: "2025-04-29T13:40:42.486822+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: dfad2865c3eb54f0366300ef63b8ba1863ca69aa27e5ca5d3512c0d799d004d3
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.22.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.22.0.tgz
     version: 0.22.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.969344+01:00"
+    created: "2025-04-29T13:40:42.486538+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 1b837cdefcb7025c40bffdd620a0f116df5ccb9023ac6a8c538bd8e77b3eb80a
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.21.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.21.0.tgz
     version: 0.21.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.96877+01:00"
+    created: "2025-04-29T13:40:42.486258+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: a4f5741b46b89cd4328fbd96f96d85d53bae64b526730de5097ec33639c9c54f
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.20.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.20.0.tgz
     version: 0.20.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.968301+01:00"
+    created: "2025-04-29T13:40:42.485797+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 59dd16db4f8519d3922da349aabcc2daec8385fc8a98d0f3163a84b98cc12f61
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.19.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.19.0.tgz
     version: 0.19.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.967984+01:00"
+    created: "2025-04-29T13:40:42.485496+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 74c4c6a448e66929dfcafc5a641b5bdbaa8af6832c6065b02ce756dfeb3fc438
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.18.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.18.0.tgz
     version: 0.18.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.967663+01:00"
+    created: "2025-04-29T13:40:42.485053+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: e1ba0bb54c3a3e13b661bb608839c7013d12e24d0437581ebfdbf5ce4a283d4d
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.17.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.17.0.tgz
     version: 0.17.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.967331+01:00"
+    created: "2025-04-29T13:40:42.484591+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 596350a4977b305e4d5aae16dd8dcca62a17ea5cec9f444aacd82a12d6b3dcfe
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.16.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.16.0.tgz
     version: 0.16.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.966887+01:00"
+    created: "2025-04-29T13:40:42.48422+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: d1a5a9e9bff274f32f6849bc58b201c7886240b94dd6b70b5cf3411d9ad03393
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.15.3.tgz
+    - https://greeninja.github.io/onechart/onechart-0.15.3.tgz
     version: 0.15.3
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.966559+01:00"
+    created: "2025-04-29T13:40:42.483941+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 626410479f67bbbfa7e7fc94f6dfd8aae50a2bdf9fc72ec395c835dacbd5dbe7
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.15.2.tgz
+    - https://greeninja.github.io/onechart/onechart-0.15.2.tgz
     version: 0.15.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.966234+01:00"
+    created: "2025-04-29T13:40:42.483657+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: e6d237aff4abedee6deb5ba57e8183c7598b255d40afdd04c03f73014f706aa3
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.15.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.15.1.tgz
     version: 0.15.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.965909+01:00"
+    created: "2025-04-29T13:40:42.483371+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: d45fc4cc214bc94e4c2c10d6432562d7e65ee5e55226f677aafdfe101d7f6e7f
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.15.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.15.0.tgz
     version: 0.15.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.965602+01:00"
+    created: "2025-04-29T13:40:42.483095+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 7e61a72a3400e09c44539094558a2084621239015132d20551c4593be3b5bede
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.14.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.14.0.tgz
     version: 0.14.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.965302+01:00"
+    created: "2025-04-29T13:40:42.482821+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 743a9b552233770713f0c22edbe8cf4f55c890a59106e1f33055c1cb31be5a27
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.13.2.tgz
+    - https://greeninja.github.io/onechart/onechart-0.13.2.tgz
     version: 0.13.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.965009+01:00"
+    created: "2025-04-29T13:40:42.482549+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 02bf9537e13cea0da9dc3bfbcdd45d51576354cb18b7c1c7cec76f829e20105f
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.13.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.13.1.tgz
     version: 0.13.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.964581+01:00"
+    created: "2025-04-29T13:40:42.482272+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 5183ed825c4f255ca5a4f0ffeb8c92bbad3c43b42fc1b798f1f1fc6de2a30bef
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.13.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.13.0.tgz
     version: 0.13.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.964038+01:00"
+    created: "2025-04-29T13:40:42.481835+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: e131a502d12a6b074453f1da8d0d1ca7145e80a025f31252b24cc3d62375a4c1
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.12.2.tgz
+    - https://greeninja.github.io/onechart/onechart-0.12.2.tgz
     version: 0.12.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.96377+01:00"
+    created: "2025-04-29T13:40:42.48159+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 8e1a25d18a546c4ec5e970991301a08e38495a964a8f6e0a2ee97f92c41c9691
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.12.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.12.1.tgz
     version: 0.12.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.963491+01:00"
+    created: "2025-04-29T13:40:42.481347+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: f38a6f2fbf5c847b00a9140ecd004e0bf667d859aa83d8dac4a2d0eecd1a361f
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.12.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.963063+01:00"
+    created: "2025-04-29T13:40:42.4811+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 75c16f84b5e99aad5aa7203f5c1ce2a9589d85b89afec4e161a2e0344a522c17
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.11.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.962731+01:00"
+    created: "2025-04-29T13:40:42.480533+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 40f1166e858d35cb237debd1390187884641b0e8c29a80aaa195b66b0ee73516
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.10.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.008129+01:00"
+    created: "2025-04-29T13:40:42.52637+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: cb42b08b463b401f6718bba7c171ee55c173021c5101ea1b3068ef3899a6e164
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.9.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.007815+01:00"
+    created: "2025-04-29T13:40:42.526062+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: ce046d209a9e8fa07766712492cc896451473fafca129dbc9c675107d0e39c52
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.8.2.tgz
+    - https://greeninja.github.io/onechart/onechart-0.8.2.tgz
     version: 0.8.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.007508+01:00"
+    created: "2025-04-29T13:40:42.52577+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 422d7e6ea1bed530d4cd5e23417b229772a6fe2e835828ca282a3e6c9b646b2b
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.8.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.8.1.tgz
     version: 0.8.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.007256+01:00"
+    created: "2025-04-29T13:40:42.525561+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 8001bd02fc90ad66da7941c136ee8d0e665ea90b6e1ac27d82b048f2b12b3964
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.8.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.003562+01:00"
+    created: "2025-04-29T13:40:42.522102+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: d1454b430eb7131d0d450f7c0a8a6698278893c61e03d48649a8112dfcf42b72
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.7.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.7.1.tgz
     version: 0.7.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.003296+01:00"
+    created: "2025-04-29T13:40:42.521846+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 4bf90835f287917671ec40b5b395da9332cf18e70f248d250f8d5a72360dcb4e
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.7.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.992835+01:00"
+    created: "2025-04-29T13:40:42.511414+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 0cade489fc74a040f5e7f71d01c6fa00d3f68b4752a4d8234ccf2c1504b4c0a1
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.6.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.992645+01:00"
+    created: "2025-04-29T13:40:42.511227+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: d607820a7e104eaaa88c153c1f2f7f409ef4c612ad747caeb3a671cf3fce03d4
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.6.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.987113+01:00"
+    created: "2025-04-29T13:40:42.505916+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: ddf7cf87402095d62855898744b805115fdf86c4b295e0a4def0c50408fd9138
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.5.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.986944+01:00"
+    created: "2025-04-29T13:40:42.505742+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: adf3c2cf3a27e58ec75620599e0e1c2031a7410a061a590317beeff6d8a9ad69
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.5.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.98158+01:00"
+    created: "2025-04-29T13:40:42.500316+01:00"
     description: One chart to rule them all. A generic Helm chart for your application
       deployments. Because no-one can remember the Kubernetes yaml syntax.
     digest: 8dab33263c4e632aeb4656c666871440b589497b70e76a1d6c3a5e3db1a30bba
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.4.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.976626+01:00"
+    created: "2025-04-29T13:40:42.493441+01:00"
     description: A generic Helm chart for your application deployments
     digest: fbaf6139e0ef8ad9a87cc1e41a97c7d25fdcf7ea17fa6364952f1a851a87480a
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.3.2.tgz
+    - https://greeninja.github.io/onechart/onechart-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.975791+01:00"
+    created: "2025-04-29T13:40:42.492633+01:00"
     description: A generic Helm chart for your application deployments
     digest: bd6f5b1865ab9b05fc6925c163ab8045235bd2723dba31f09d5083d24322d1f8
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.3.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.975527+01:00"
+    created: "2025-04-29T13:40:42.492391+01:00"
     description: A generic Helm chart for your application deployments
     digest: c79cef21eceab948144a289298cdf1e20e77a0782a883d7d65f9e709ccbbc271
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.3.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.968465+01:00"
+    created: "2025-04-29T13:40:42.485961+01:00"
     description: A generic Helm chart for your application deployments
     digest: dd814ac5d08d5e6163a1b769df6803f5cb0f09d906045086dfcc5be522bb1ec3
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.2.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.962328+01:00"
+    created: "2025-04-29T13:40:42.480038+01:00"
     description: A generic Helm chart for your application deployments
     digest: e46062df8053840cbfbba26c0a66a843a79f15a0b43a145ed019327513bd5098
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.1.2.tgz
+    - https://greeninja.github.io/onechart/onechart-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.962165+01:00"
+    created: "2025-04-29T13:40:42.479889+01:00"
     description: A generic Helm chart for your application deployments
     digest: a7bbc8b7dcc008e89156cd1830282b7d39c0592e82ccdcefb77a25a42eca2a3d
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.1.1.tgz
+    - https://greeninja.github.io/onechart/onechart-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:08.961988+01:00"
+    created: "2025-04-29T13:40:42.479734+01:00"
     description: A generic Helm chart for your application deployments
     digest: 1ed8c0645abdae6c950526e9c5410dc056847a11700dc7def5f1c55eb7de0cd4
     name: onechart
     type: application
     urls:
-    - https://chart.onechart.dev/onechart-0.1.0.tgz
+    - https://greeninja.github.io/onechart/onechart-0.1.0.tgz
     version: 0.1.0
   static-site:
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.018281+01:00"
+    created: "2025-04-29T13:40:42.536803+01:00"
     dependencies:
     - name: common
       repository: file://../common
       version: 0.7.0
     description: Chart to build and deploy static sites
-    digest: 43b384abda8d40be04675d6acb560bdfc1b03ab1e51cabfff0c0dfed61f2e5cb
+    digest: 35a82410e1e02d1f772cb42ad051133fed16640063bc4c021ecb5663c05980fc
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.74.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.74.0.tgz
     version: 0.74.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.017945+01:00"
+    created: "2025-04-29T13:40:42.536447+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -2071,10 +2071,10 @@ entries:
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.73.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.73.0.tgz
     version: 0.73.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.017567+01:00"
+    created: "2025-04-29T13:40:42.535976+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -2084,10 +2084,10 @@ entries:
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.72.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.72.0.tgz
     version: 0.72.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.017171+01:00"
+    created: "2025-04-29T13:40:42.535218+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -2097,10 +2097,10 @@ entries:
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.71.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.71.0.tgz
     version: 0.71.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.016417+01:00"
+    created: "2025-04-29T13:40:42.534721+01:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -2110,222 +2110,222 @@ entries:
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.70.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.70.0.tgz
     version: 0.70.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.016058+01:00"
+    created: "2025-04-29T13:40:42.534321+01:00"
     description: Chart to build and deploy static sites
     digest: 15c2ee0a98e9762e60e3bb6a8db06e4dc7dac9bebcf439922aa5f64e7d4bd41e
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.69.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.69.0.tgz
     version: 0.69.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.015834+01:00"
+    created: "2025-04-29T13:40:42.534004+01:00"
     description: Chart to build and deploy static sites
     digest: 2bb2c74dbc4550345d280c56582eead02776b066981441ede5899b2c2b9f6e0c
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.68.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.68.0.tgz
     version: 0.68.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.015616+01:00"
+    created: "2025-04-29T13:40:42.53373+01:00"
     description: Chart to build and deploy static sites
     digest: f8f021af14c2c67cac2b7a394556f6524264189192bcc8e0a4cfeaa52a9fe6fb
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.67.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.67.0.tgz
     version: 0.67.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.015391+01:00"
+    created: "2025-04-29T13:40:42.533415+01:00"
     description: Chart to build and deploy static sites
     digest: 8543a5accf5644331743f7a0daf24aa402e6bef663970b57cfbd263aea0af165
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.66.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.66.0.tgz
     version: 0.66.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.015005+01:00"
+    created: "2025-04-29T13:40:42.533048+01:00"
     description: Chart to build and deploy static sites
     digest: 1f3ba2ce15906f885e2bb0000fd3ee385df03eab222e106d19f59032214fc462
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.65.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.65.0.tgz
     version: 0.65.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.014692+01:00"
+    created: "2025-04-29T13:40:42.532734+01:00"
     description: Chart to build and deploy static sites
     digest: 8b47812556f59a5e0fc8f6fe3ca4663461e67dad15137442a6a32dc2d5edea9e
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.64.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.64.0.tgz
     version: 0.64.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.014213+01:00"
+    created: "2025-04-29T13:40:42.532456+01:00"
     description: Chart to build and deploy static sites
     digest: 939cbef93d8e09f370c37c73fd95efc99d28361975ce1b859625044240ed2807
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.64.0-rc.2.tgz
+    - https://greeninja.github.io/onechart/static-site-0.64.0-rc.2.tgz
     version: 0.64.0-rc.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.013908+01:00"
+    created: "2025-04-29T13:40:42.532153+01:00"
     description: Chart to build and deploy static sites
     digest: 8af89841d8184856b1e6843c20a14fce51bf46e784c9f2a3140a334cd5932608
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.63.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.63.0.tgz
     version: 0.63.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.01364+01:00"
+    created: "2025-04-29T13:40:42.531878+01:00"
     description: Chart to build and deploy static sites
     digest: dc108e075e2ba579b30d68bc5364adaecbc4b8c11535861d962c5787f9ed198a
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.63.0-rc.3.tgz
+    - https://greeninja.github.io/onechart/static-site-0.63.0-rc.3.tgz
     version: 0.63.0-rc.3
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.013325+01:00"
+    created: "2025-04-29T13:40:42.531576+01:00"
     description: Chart to build and deploy static sites
     digest: 87b850c57a52b7fc9d025ccf1d390557728355d8874c0a1f8efcfafd9f7c87c3
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.63.0-rc.2.tgz
+    - https://greeninja.github.io/onechart/static-site-0.63.0-rc.2.tgz
     version: 0.63.0-rc.2
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.013048+01:00"
+    created: "2025-04-29T13:40:42.531301+01:00"
     description: Chart to build and deploy static sites
     digest: fffcc8edac47cc87244bdf7325c6ac880f4bddab5e22b8aeba90b92f51425c22
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.63.0-rc.1.tgz
+    - https://greeninja.github.io/onechart/static-site-0.63.0-rc.1.tgz
     version: 0.63.0-rc.1
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.012738+01:00"
+    created: "2025-04-29T13:40:42.530991+01:00"
     description: Chart to build and deploy static sites
     digest: c63bc30ae3acbc4bf3bcfe22d8255c4f8fb593b4d07dac5aad678668d9555e2b
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.62.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.62.0.tgz
     version: 0.62.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.012284+01:00"
+    created: "2025-04-29T13:40:42.530528+01:00"
     description: Chart to build and deploy static sites
     digest: 2ed116159a2412d6063d863e9e59ba4e136a0115ca98298019703248c3ddeac0
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.62.0-rc.3.tgz
+    - https://greeninja.github.io/onechart/static-site-0.62.0-rc.3.tgz
     version: 0.62.0-rc.3
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.011922+01:00"
+    created: "2025-04-29T13:40:42.530192+01:00"
     description: Chart to build and deploy static sites
     digest: 8ebb73b0ac8be45cbce8e77061e14c9d0b7619d127137d748345097ebd233ac6
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.61.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.61.0.tgz
     version: 0.61.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.011616+01:00"
+    created: "2025-04-29T13:40:42.529831+01:00"
     description: Chart to build and deploy static sites
     digest: 8d50d5c10503d3180ebf6e00bef8136833efcd47ea57d51e768b34183897585d
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.60.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.60.0.tgz
     version: 0.60.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.011243+01:00"
+    created: "2025-04-29T13:40:42.529451+01:00"
     description: Chart to build and deploy static sites
     digest: d485011b302792860258c4abba2273f74165ea491bf3ccb28e1e49d784e230a4
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.59.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.59.0.tgz
     version: 0.59.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.010917+01:00"
+    created: "2025-04-29T13:40:42.528969+01:00"
     description: Chart to build and deploy static sites
     digest: f62fd4d04967e7f4a55c6edb42cde98811d6dd3165d5a00414df02627a32e0a0
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.58.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.58.0.tgz
     version: 0.58.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.010391+01:00"
+    created: "2025-04-29T13:40:42.528567+01:00"
     description: Chart to build and deploy static sites
     digest: 02c948ac12e84aa9f4dbfc04c707a696bf9fe906a526b64498af9f788f1f1c08
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.57.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.57.0.tgz
     version: 0.57.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.010009+01:00"
+    created: "2025-04-29T13:40:42.528299+01:00"
     description: Chart to build and deploy static sites
     digest: b6f8780c07f25f0673ac3657ac7da2f2311d6a054a4ad085b2bc1de55a715d14
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.56.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.56.0.tgz
     version: 0.56.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.009729+01:00"
+    created: "2025-04-29T13:40:42.528005+01:00"
     description: Chart to build and deploy static sites
     digest: 996d067a5e569764e824cabeee040b6786512ddcb90760c495c67e48c2d8f613
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.55.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.55.0.tgz
     version: 0.55.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.009361+01:00"
+    created: "2025-04-29T13:40:42.527587+01:00"
     description: Chart to build and deploy static sites
     digest: daa3189dd1ee1cc328227ec11a59359876da8c29f28b50a36e0bd57fb12fe1ce
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.54.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.54.0.tgz
     version: 0.54.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.008995+01:00"
+    created: "2025-04-29T13:40:42.527246+01:00"
     description: Chart to build and deploy static sites
     digest: e9c0c056470f40fc97119ca4c4a9b1b0c84f19c98792fee0b55c91cb57f93671
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.53.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.53.0.tgz
     version: 0.53.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.008733+01:00"
+    created: "2025-04-29T13:40:42.526979+01:00"
     description: Chart to build and deploy static sites
     digest: ef72c7cc95bbf6c123bb2f6a80ced12a3e6f09c866b2ff9057caa6692e16c2e1
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.52.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.52.0.tgz
     version: 0.52.0
   - apiVersion: v2
-    created: "2025-04-29T13:37:09.008417+01:00"
+    created: "2025-04-29T13:40:42.526658+01:00"
     description: Chart to build and deploy static sites
     digest: d26cef52a3aace6285173de55981375086aec3b4b52027bc2e42d16632190497
     name: static-site
     type: application
     urls:
-    - https://chart.onechart.dev/static-site-0.1.0.tgz
+    - https://greeninja.github.io/onechart/static-site-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-29T13:37:08.934719+01:00"
+generated: "2025-04-29T13:40:42.454408+01:00"
